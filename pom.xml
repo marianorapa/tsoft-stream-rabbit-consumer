@@ -8,11 +8,11 @@
 		<version>2.3.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>stream-rabbit</artifactId>
+	<groupId>com.tsoftlatam.spring-cloud-stream</groupId>
+	<artifactId>consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>stream-rabbit</name>
-	<description>Demo project for Spring Boot</description>
+	<name>consumer</name>
+	<description>Tutorial Spring Cloud Stream Consumer</description>
 
 	<properties>
 		<java.version>11</java.version>
